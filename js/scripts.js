@@ -21,4 +21,7 @@ $(document).ready(function () {
     $("body").removeClass();
     $("body").addClass("darkMode-background");
   });
+  $("p").click(function () {
+    $("p").addClass("intro");
+  });
 });
