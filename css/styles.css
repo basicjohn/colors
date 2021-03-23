@@ -1,0 +1,22 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+
+.lightMode-background {
+  background-color: #fff;
+  color:#323232
+}
+
+.darkMode-background {
+  background-color: #323232;
+  color: #fff;
+}
